@@ -17,4 +17,4 @@ Carlos Sanhueza R. - Kari Rios Q. - Marcelo Faundez R. - Ignacio Vera M. - Juan 
 
 ### License
 
-Este programa es realizado bajo licencia open source
+Este programa es realizado bajo licencia open source.
