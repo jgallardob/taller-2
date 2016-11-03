@@ -2,7 +2,7 @@
 
 **--- Sistema Web para venta de pasajes ---**
 
-Proyecto creado para la asignatura Taller de Integración II - Universidad Catolica de Temuco - 2016
+Proyecto creado para la asignatura Taller de Integración II - Universidad Catolica de Temuco - 2016.
 
 
 ## Official Documentation
